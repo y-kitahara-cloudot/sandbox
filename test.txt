@@ -4,4 +4,4 @@
 
 3.bar
 
-4.test2
+4.baz
