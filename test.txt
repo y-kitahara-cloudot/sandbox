@@ -8,4 +8,4 @@
 
 5.fixed confriction
 
-6.edit of branch "test6"
+6.fix the confriction of branch "branch5" and "test6"
